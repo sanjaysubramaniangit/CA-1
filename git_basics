@@ -1,0 +1,13 @@
+## Git Basics
+
+### git init 
+initializes the changes made in the code.
+
+### git add
+It stages the current repository to get it commit
+
+### git commit
+It is snapshot of the code at a specific point of time
+
+### git push 
+It pushes the code from local to the remote repository
